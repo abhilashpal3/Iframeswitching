@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9606" started-at="2020-06-04T05:01:22Z" finished-at="2020-06-04T05:01:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9606" started-at="2020-06-04T05:01:22Z" finished-at="2020-06-04T05:01:31Z">
+      <class name="IframeSample.IframeSample.IframeCheck">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:IframeSample.IframeSample.IframeCheck@3fee9989]" name="LaunchBrowser" is-config="true" duration-ms="9081" started-at="2020-06-04T05:01:13Z" finished-at="2020-06-04T05:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:IframeSample.IframeSample.IframeCheck@3fee9989]" name="OpenApp" duration-ms="9553" started-at="2020-06-04T05:01:22Z" description="App is Opened in" finished-at="2020-06-04T05:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+      </class> <!-- IframeSample.IframeSample.IframeCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
